@@ -48,6 +48,10 @@ img{
 .title,.name,.lorem{
     height: fit-content;
 }
+.title{
+    font-weight: 100;
+    font-size: 17px;
+}
 .skill{
     width: 45%;
     height: 2rem;
