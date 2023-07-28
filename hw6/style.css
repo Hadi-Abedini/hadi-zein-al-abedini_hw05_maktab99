@@ -55,7 +55,8 @@
 .login-title {
     color: white;
     font-weight: 600;
-    height: 20px;
+    font-size: larger;
+    height: fit-content;
 }
 
 .input-section {
